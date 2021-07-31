@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Maratos",
+    "mongoURL": "mongodb+srv://APIboy:*****@cluster0.wyi7d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+} 
